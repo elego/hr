@@ -4,7 +4,7 @@
 
 {
     "name": "Experience Management",
-    "version": "8.0.1.1.0",
+    "version": "9.0.1.1.0",
     "author": "Savoir-faire Linux,"
               "OpenSynergy Indonesia,"
               "Odoo Community Association (OCA)",
